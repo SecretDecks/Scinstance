@@ -11,10 +11,10 @@
     ],
     "reactionWeightConfig": {
       "applyAveraging": false,
-      "defaultWeight": 0.2,
+      "defaultWeight": 1,
       "weights": {
         "sourcecred:678399364418502669": 10,
-        "👍": 0.2
+        ":heart:": 2
       }
     },
     "roleWeightConfig": {
