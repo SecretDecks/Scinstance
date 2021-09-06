@@ -14,7 +14,11 @@
       "defaultWeight": 1,
       "weights": {
         "sourcecred:678399364418502669": 10,
-        ":heart:": 2
+        ":1CanD:": 2
+        ":1CanD∼1:": -1
+        ":2CanDHeart:": 3
+        ":3CanDGem:": 4
+        ":4CanDprescription:": 5
       }
     },
     "roleWeightConfig": {
