@@ -13,11 +13,11 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        ":1CanD∼1:882959104803483669": -1
-        ":1CanD:884061029154320424": 2
-        ":2CanDHeart:882972753962082314": 3
-        ":3CanDGem:882254272983609344": 4
-        ":4CanDprescription:882254272983609344": 5
+        "-1CanD:874726609909870676": -1,
+        "1CanD:874726609674965013": 2,
+        "2CanDHeart:874726609725308959": 3,
+        "3CanDGem:874726609767251968": 4,
+        "4CanDprescription:874726611029733458": 5
       }
     },
     "roleWeightConfig": {
