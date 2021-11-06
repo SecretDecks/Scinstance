@@ -4,6 +4,7 @@
         "SecretDecks/Contentwriting", 
         "SecretDecks/Website", 
         "SecretDecks/Artist-Coordination", 
-        "SecretDecks/Arcana"
+        "SecretDecks/Arcana",
+        "SecretDecks/DisCo_init"
     ]
 }
