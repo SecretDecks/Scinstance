@@ -15,6 +15,7 @@
     "load": "dotenv sourcecred load",
     "start": "dotenv -- sourcecred go --no-load && sourcecred serve",
     "grain": "sourcecred grain"
+    "update": "sourcecred update"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
