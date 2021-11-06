@@ -1,1 +1,9 @@
-{"repositories": ["SecretDecks/Documentation", "SecretDecks/Contentwriting", "SecretDecks/Website", "SecretDecks/Artist-Coordination", "SecretDecks/Arcana"]}
+{
+    "repositories": [
+        "SecretDecks/Documentation", 
+        "SecretDecks/Contentwriting", 
+        "SecretDecks/Website", 
+        "SecretDecks/Artist-Coordination", 
+        "SecretDecks/Arcana"
+    ]
+}
