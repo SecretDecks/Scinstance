@@ -7,8 +7,7 @@
     },
     "guildId": "839844883124584478",
     "includeNsfwChannels": true,
-    "propsChannels": 
-    [
+    "propsChannels": [
       "849420124007956551",
       "884143672004857936",
       "839844883124584483",
@@ -26,8 +25,7 @@
     "reactionWeightConfig": {
       "applyAveraging": false,
       "defaultWeight": 1,
-      "weights": 
-      {
+      "weights": {
         "1CanD:874726609674965013": 2,
         "2CanDHeart:874726609725308959": 3,
         "3CanDGem:874726609767251968": 4,
@@ -39,8 +37,7 @@
     },
     "roleWeightConfig": {
       "defaultWeight": 0,
-      "weights": 
-      {
+      "weights": {
         "842003562556424233": 2,
         "849414994541674597": 1
       }
