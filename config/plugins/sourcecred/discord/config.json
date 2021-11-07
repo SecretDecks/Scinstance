@@ -16,7 +16,7 @@
     },
     "guildId": "839844883124584478",
     "includeNsfwChannels": false,
-    "includePrivateChannels": true,	  
+    "includePrivate": true,	  
     "propsChannels": [
       "839844883124584483",
       "849420124007956551",
